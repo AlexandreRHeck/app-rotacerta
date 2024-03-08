@@ -19,7 +19,7 @@ export default defineComponent({
   components: { ExampleComponent },
   setup() {
     const todos = ref<Todo[]>([
-      /* teste */
+      /* teste      sdsdsd*/
       {
         id: 1,
         content: 'ct1',
